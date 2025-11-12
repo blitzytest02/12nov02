@@ -1,0 +1,23 @@
+{
+  "name": "12nov02",
+  "version": "1.0.0",
+  "description": "Node.js tutorial project demonstrating Express.js framework integration with multiple HTTP endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "tutorial",
+    "web-server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
